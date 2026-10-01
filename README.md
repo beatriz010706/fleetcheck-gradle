@@ -64,7 +64,7 @@ Foi necessário tornar o `gradlew` executável antes do push, por o Windows não
 git update-index --chmod=+x gradlew
 
 
-Execução com sucesso: <URL_DO_RUN>
+Execução com sucesso:https://github.com/beatriz010706/fleetcheck-gradle/actions/runs/36926698196
 
 ### Passo 8.6 — SBOM (CycloneDX Gradle plugin)
 Adicionado o plugin `id 'org.cyclonedx.bom' version '3.4.1'` ao `build.gradle`. Gerado com:
